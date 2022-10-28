@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.nav-link:hover{
+  color: blue;
+  text-decoration: underlineblue 0px 0px 0px 2px inset;
+}
+
+.relative-border{
+  box-shadow: blue 0px 0px 0px 2px inset, rgb(255, 255, 255) -10px -10px 0px -3px, rgb(13, 31, 197) -10px -10px;
+}
+
+.part_30{
+  width: 25vw;
+}
+
+.bs1{
+  box-shadow: -4px -4px 20px 2px rgb(217, 202, 202), 4px 4px 20px 2px rgb(217, 202, 202);
+}
