@@ -1,6 +1,6 @@
 import React from 'react'
 
-function vision() {
+function Vision() {
   return (
     <div>
       
@@ -8,4 +8,4 @@ function vision() {
   )
 }
 
-export default vision;
+export default Vision;

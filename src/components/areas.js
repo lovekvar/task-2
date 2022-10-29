@@ -1,6 +1,6 @@
 import React from 'react'
 
-function areas() {
+function Areas() {
   return (
     <div className='container'>
         <h3 className='text-primary text-decoration-underline my-4'>Legal Areas</h3>
@@ -10,7 +10,7 @@ function areas() {
                     <img className='my-3' src={ require('../img/tourism.jfif')} alt="NO PREVIEW" height="80vh"/>
                     <h5 className='my-3'>Tourism Law</h5>
                     <p className='pb-3'>We help frustrated holiday-makers in case of travel defects of any kind of enforce reduction claims against travel companies.</p>
-                    <a href="/" className="text-decoration-none"><b>Know More</b></a>
+                    <a href="/form" className="text-decoration-none"><b>Know More</b></a>
                 </div>
             </div>
             <div className="part_30 bs1">
@@ -34,4 +34,4 @@ function areas() {
   )
 }
 
-export default areas;
+export default Areas;
