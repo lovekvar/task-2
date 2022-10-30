@@ -6,8 +6,8 @@ function Home() {
         <div className='row'>
             <div className='col-6'>
                 <div style={{margin: "20% 5% 10% 5%"}}>
-                    <h3>Case Resolution Platform</h3>
-                    <p className='my-4 me-5'>Automating Litigation through Artificial Inteligence</p>
+                    <h3 className='main-heading'>Case Resolution Platform</h3>
+                    <p className='desc my-4 me-5'>Automating Litigation through Artificial Inteligence</p>
                     <button className='mt-3 px-4 py-1 btn-primary'>Know More</button>
                 </div>
             </div>

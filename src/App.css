@@ -53,3 +53,48 @@
 .bs1{
   box-shadow: -4px -4px 20px 2px rgb(217, 202, 202), 4px 4px 20px 2px rgb(217, 202, 202);
 }
+.hidden-form{
+  width: 35vw;
+}
+.hint-text{
+  font-size: 12px;
+  width: 35vw;
+}
+#phone{
+  display: none;
+}
+.main-heading{
+  font-family: 'Roboto Slab', serif;
+}
+.section-desc{
+  font-family: 'Roboto Slab', serif;
+  opacity: 0.6;
+  font-size: 16px;
+}
+.desc{
+  font-family: 'Nunito', sans-serif;
+  opacity: 0.8;
+}
+.logo-head{
+  font-family: 'Abril Fatface', cursive;
+}
+.nav-head{
+  font-family: 'Bree Serif', serif;
+}
+.section-head{
+  font-family: 'Crete Round', serif;
+}
+.navbar{
+  box-shadow: 0px 3px 5px 1px rgb(216, 212, 212);
+}
+.option{
+  border-radius: 8px;
+  background-color: white;
+}
+.option:hover{
+  border-color: rgb(68, 218, 68);
+}
+.next{
+  background-color: rgb(31, 174, 167);
+  color: white;
+}
