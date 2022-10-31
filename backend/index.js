@@ -1,6 +1,6 @@
 const dotenv = require('dotenv');
 dotenv.config();
-console.log("Connection String : ",process.env.MONGODB_CONNECTION_STRING);
+// console.log("Connection String : ",process.env.MONGODB_CONNECTION_STRING);
 const connectToMongo = require('./dbConnect');
 const cors = require('cors');
 const express = require('express');
